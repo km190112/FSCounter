@@ -1,0 +1,2 @@
+# FSCounter
+フットスイッチを２つつなぎM5StakBasicにカウンタ表示
